@@ -1,0 +1,8 @@
+Database Name: 'tourntravel'
+
+users::
+ username: 'rafi' , password: '1234'
+ username: 'arif' , password: '1234'
+
+admin::
+ username: 'admin', password: 'admim'
